@@ -25,3 +25,9 @@ Note : Developer hanya membuat saja , jika ada kasus atau pelanggaran maka di lu
 MenDownload berarti mengerti dengan aturan ini :).
 
 Script boleh di ubah ubah , sing penting cantumin CopyRight
+
+Jika ada error silahkan kontak saya
+Facebook : https://www.facebook.com/mas.tenwap.5
+Instagram : https://www.instagram.com/mr.tenwap/
+
+Menerima kritik dan saran :)
