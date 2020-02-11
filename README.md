@@ -18,14 +18,14 @@ Shopee<br>
 Itemku<br>
 BliBli<br>
 RuangGuru<br>
-<br><br>
+<br><br><br>
 Mungkin kedepannya akan ada tambahan fitur fitur lainnya.
-<br>
+<br><br>
 Note : Developer hanya membuat saja , jika ada kasus atau pelanggaran maka di luar dari tanggung jawab Developer.
 MenDownload berarti mengerti dengan aturan ini :).
-<br>
+<br><br>
 Script boleh di ubah ubah , sing penting cantumin CopyRight
-<br>
+<br><br>
 Jika ada error silahkan kontak saya <br>
 Facebook : https://www.facebook.com/mas.tenwap.5 <br>
 Instagram : https://www.instagram.com/mr.tenwap/
