@@ -1,5 +1,10 @@
 <?php
 
+// Author : Mas TenWap 
+// AnonCybeTeam
+// Date : 11/02/2020
+
+
 // Jika ada error silahkan hapus saja fungsi cek koneksi nya
 function CekKoneksi()
 {
